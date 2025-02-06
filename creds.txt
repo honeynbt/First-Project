@@ -1,2 +1,0 @@
-username "honey"
-password "singh5"
